@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Cpu Record' target in the 'Cpu Record' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
